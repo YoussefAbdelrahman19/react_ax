@@ -1,0 +1,17 @@
+.sidebar{
+  height: 100vh;
+  background-color: #EEE;
+  
+}
+.sidebar ul{
+  list-style-type: none;
+}
+.sidebar li{
+  padding: 10px 2px;
+
+  text-align: center;
+}
+
+.sidebar li a{
+text-decoration: none;
+}
